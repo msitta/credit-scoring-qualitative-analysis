@@ -1,0 +1,16 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Jupyter / Colab folders
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Local environment
+env/
+venv/
+.env
+
+# Data files (Good practice to ignore local CSVs if they are large or sensitive)
+*.csv
+*.pkl
