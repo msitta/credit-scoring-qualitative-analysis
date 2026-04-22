@@ -21,3 +21,21 @@ Unlike "Black Box" models, this approach uses features derived from field experi
 * Python (Pandas, NumPy)
 * Scikit-Learn (Random Forest Classifier)
 * Data Visualization (Matplotlib, Seaborn)
+
+---
+
+## Real-World Business Context (Based on 2025 Financial Reports)
+
+This project addresses a critical efficiency gap in the banking sector. Analysis of the **4T25 Performance Report** from one of Brazil's largest financial institutions reveals a significant opportunity for data-driven credit optimization:
+
+* **Credit Crunch & Portfolio Contraction:** The SME (MPME) credit portfolio shrank by **7.9% YoY**, closing at **R$ 115.2 Billion**. This suggests that legacy automated systems (often called "Black Boxes") are rejecting viable credit opportunities in a massive market due to rigid, massified filters.
+* **The 3.39% NPL Gap:** While the reported delinquency rate (NPL > 90d) for SMEs is **9.08%**, the adjusted rate—excluding restructured debt—is only **5.69%**. Traditional models often fail to distinguish between "structural risk" and "statistical noise," leading to unnecessary credit denials (False Negatives).
+* **Underutilized Customer Loyalty:** Remarkably, **99.5%** of the SME portfolio consists of clients with more than **2 years** of relationship with the bank. These are established businesses with a wealth of behavioral and qualitative data that is currently undervalued in automated scoring processes.
+
+### The Business Opportunity
+The **CreditLens** approach targets this specific gap. By integrating field-level qualitative data (e.g., manager insights, store traffic, operational sentiment), the model recovers "Lost Gems"—healthy companies currently caught in automated rejection filters (like the "Corte X"). This represents a potential recapture of a multi-billion dollar market with a controlled and data-backed risk appetite.
+
+
+
+---
+
