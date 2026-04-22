@@ -39,3 +39,17 @@ The **CreditLens** approach targets this specific gap. By integrating field-leve
 
 ---
 
+### Comparison: Traditional Legacy Model vs. CreditLens Strategy
+
+| Feature / Indicator | Traditional "Black Box" Model | CreditLens (Proposed Model) |
+| :--- | :--- | :--- |
+| **Primary Data Source** | Static Financials & Credit Bureau | Real-time Operational & Field Data |
+| **NPL Reference** | **9.08%** (Gross NPL) | **5.69%** (Adjusted NPL) |
+| **Decision Bias** | Risk Aversion (Conservative) | Opportunity Capture (Analytical) |
+| **Relationship Value** | Undervalued (99.5% tenure ignored) | High Weight (Relationship as a mitigator) |
+| **Market Reaction** | Portfolio Contraction (-7.9% YoY) | Strategic Recovery & Growth |
+| **Handling "False Negatives"** | High (Acceptable loss of good clients) | Low (Aims to rescue "Lost Gems") |
+
+---
+
+
